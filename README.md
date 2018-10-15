@@ -5,6 +5,7 @@ Purpose of this repository is to showcase the idea, mathematics and implementati
 ![alt text](https://github.com/avinashbarnwal/Hidden-Markov-Model/blob/master/HMM.png)
 
 [source](https://www.wikiwand.com/en/Hidden_Markov_model)
+
 **Problem Formulation**
 
 The number of hidden states is unknown. K is the total number hidden states. We assume that given the hidden states 

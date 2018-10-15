@@ -1,6 +1,7 @@
 **Hidden-Markov-Model**
 
-**Mathematics behind HMM with code in R**
+Purpose of this repository is to showcase the idea, mathematics and implementation of HMM. I have used R to show the implementation.
+
 
 **Problem Formulation**
 

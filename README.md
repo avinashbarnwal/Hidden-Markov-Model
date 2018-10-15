@@ -2,7 +2,7 @@
 
 Purpose of this repository is to showcase the idea, mathematics and implementation of HMM. I have used R to show the implementation.
 
-
+![alt text](https://github.com/avinashbarnwal/Hidden-Markov-Model/blob/master/HMM.png)
 **Problem Formulation**
 
 The number of hidden states is unknown. K is the total number hidden states. We assume that given the hidden states 
